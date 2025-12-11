@@ -10,7 +10,7 @@ Each solution is organized for clarity and easy reference.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/itzpremsingh/leetcode-solutions.git
+   git clone https://github.com/SilentCoderHere/leetcode-solutions.git
    cd leetcode-solutions
    ```
 
